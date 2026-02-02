@@ -40,12 +40,19 @@ The source code is available in C++, JavaScript, and Python.
 
 **Key Features**:
 ---------------
+
 🎨 Real-Time Emergence - Watch patterns form from pure chaos in milliseconds
+
 🔄 Adaptive Systems - Rules evolve based on what's happening in the simulation
+
 💥 Beautiful Instability - The system thrives on breaking, not staying stable
+
 🎮 Interactive Control - Click, drag, and modify forces in real-time
+
 🌈 Multiple Species - Different colored particles with unique relationships
+
 🔊 Visual Feedback - See every interaction as it happens
+
 ♾️ Never Repeats - Each session creates unique, unrepeatable patterns
 
 
