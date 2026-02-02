@@ -14,7 +14,7 @@ Click here for a live demo (JavaScript):
   
 Interface (C++ version)
 --------------------------------------------------------
-![](images/interface.jpg)
+![](images/interface.png)
 
 Example Results
 --------------------------------------------------------
